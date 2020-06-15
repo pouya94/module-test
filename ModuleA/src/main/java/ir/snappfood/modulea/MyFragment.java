@@ -26,6 +26,6 @@ public class MyFragment extends Fragment {
 
     }
     public String getName(){
-        return "Salam";
+        return "BYYYYYYYYYYYYYYY";
     }
 }
