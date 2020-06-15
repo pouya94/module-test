@@ -25,4 +25,7 @@ public class MyFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
     }
+    public String getName(){
+        return "Salam";
+    }
 }
